@@ -1,0 +1,12 @@
+{
+  "ganzzahl" : 42,
+  "fliesskommazahl" : 13.37,
+  "zeichenkette" : "Hallo Welt",
+  "unterobjekt" : {
+    "vorname" : "Urs",
+    "nachname" : "Thöny"
+  },
+  "einArray" : ["foo", "bar"],
+  "nix" : null,
+  "entwederOder" : true
+}
